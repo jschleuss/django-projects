@@ -5,4 +5,4 @@ def search(request):
     query = request.GET['q']
     return render_to_response('search/search.html',
       { 'query': query,
-        'results': transit.objects.filter( route_name__icontains=query) })
+        'results': FlatPage.objects.filter(content__icontains=query) })

@@ -4,19 +4,41 @@
 
 {% block title %}Will my route be cut?{% endblock %}
 {% block styles %}
-	<link rel="stylesheet" type="text/css" href="{% static "styles/transit.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "styles/transit.css" %}">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 {% endblock %}
-{% block scripts %}{% endblock %}
+{% block scripts %}
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+    <script type="text/javascript">
+    $(function() {
+        var availableRoutes = [
+        {% for route in routes %}"{{ route.route_name }}",
+        {% endfor %}
+        ];
+        $( "#routeSearch" ).autocomplete({
+            source: availableRoutes
+        });
+    });
+    </script>
+{% endblock %}
+
+
 
 {% block content %}
 <h1>What's your route?</h1>
 
 <!-- SOCIAL BUTTONS -->
 
-<form method="get" action"/route/">
-	Route: <input type="text" name="q" id="id_q">
+<form method="get" action".">
+	<input type="text" name="q" id="routeSearch" value="{{ query }}">
 	<input type="submit" value="Check">
 </form>
+
+
+
+<p>Your route could be <span class="{% for route in selection %}{{ route.get_change_display }}{% endfor %}">{% for route in selection %}{{ route.get_change_display }}{% endfor %}</span>.</p>
 
 <p>King County Metro has said it will eliminate, reduce or revise about two-thirds of its bus routes to close an expected $75 million shortfall beginning mid-2014.</p>
 
