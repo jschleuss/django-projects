@@ -1,0 +1,123 @@
+/*
+  Transit reductions
+  A Django-powered app by Jon Schleuss for The Seattle Times
+*/
+
+body { 
+  font-family: Palatino, Georgia, serif; 
+  color: #333333; }
+
+ul.filter_options {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.filter_options li {
+  display: block;
+  float: left; 
+  margin: 0 5px 0 0;
+}
+
+
+/* Table resets */
+table, tbody, tfoot, thead, tr, th, td {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: middle;
+    background: transparent;
+    border-spacing:0;
+    border-collapse:collapse;
+}
+
+#transit_routes {
+  width: 100%;
+  clear: both;
+}
+
+td span {
+  border-radius: 7px 7px 7px 7px;
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 12px;
+  padding: 2px 5px;
+  text-transform: uppercase;
+  
+}
+
+td span.reduced { 
+  background: #8873c3;
+}
+
+td span.deleted {
+  background: #c27373;
+}
+
+td span.unchanged {
+  background: #919191;
+}
+
+/* Zebra striping */
+#transit_routes tbody tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+/* 
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+
+table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+
+/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+}
+	
+	

@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% load staticfiles %}
+
+{% block title %}Will my route be cut?{% endblock %}
+{% block styles %}
+	<link rel="stylesheet" type="text/css" href="{% static "styles/transit.css" %}">
+{% endblock %}
+{% block scripts %}{% endblock %}
+
+{% block content %}
+<h1>What's your route?</h1>
+
+<!-- SOCIAL BUTTONS -->
+
+<form method="get" action"/route/">
+	Route: <input type="text" name="q" id="id_q">
+	<input type="submit" value="Check">
+</form>
+
+<p>King County Metro has said it will eliminate, reduce or revise about two-thirds of its bus routes to close an expected $75 million shortfall beginning mid-2014.</p>
+
+
+
+
+<ul class="filter_options">
+  <li class="filter">Filter:</li>
+  <li><a href="">Deleted</a></li>
+  <li><a href="">Reduced</a></li>
+  <li><a href="">Unchanged </a></li>
+</ul>
+
+<table id="transit_routes">
+  <thead>
+    <th>Route</th>
+    <th>Description</th>
+    <th>Change</th>
+  </thead>
+  <tbody>
+    {% for route in routes %}
+    <tr class="{{ route.get_change_display }}">
+      <td>{{ route.route_name }}</td>
+      <td>{{ route.description }}</td>
+      <td><span class="{{ route.get_change_display }}">{{ route.get_change_display }}</span></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
+{% endblock %}
