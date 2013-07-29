@@ -1,1 +1,1 @@
-Most of these things are small projects that are not guaranteed to work. 
+Most of these things are small projects that are not guaranteed to work. Some are things mentioned in James Bennett's <a href="http://www.amazon.com/Practical-Django-Projects-Pratical/dp/1590599969">Practical Django Projects</a>.
