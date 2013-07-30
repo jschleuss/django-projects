@@ -4,26 +4,172 @@
 */
 
 body { 
-  font-family: Palatino, Georgia, serif; 
-  color: #333333; }
+    font-family: Palatino, Georgia, serif; 
+    color: #333333; 
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+}
+
+a { 
+    color: #1e5f84;
+}
+
+p {
+    font-size: 14px;
+    line-height: 120%;
+    margin: 0 0 10px;
+}
+
+.clr { 
+    display: block;
+    clear: both;
+}
+
+#page_content {
+    margin: 0 10px;
+}
+
+#header {
+    border-bottom: 1px solid #eeeeee;
+    padding: 10px 0;
+}
+
+
+#header a#st_logo {
+    display: block;
+    float: left;
+    width: 50px;
+    height: 34px;  
+    text-indent: -9999px;
+    background: url(../images/st_logo.png) 0 0 no-repeat; 
+    margin: 0 10px 0 0; 
+}
+
+#header form input {
+    float: left;
+}
+
+#header input#routeSearch {
+    height: 20px;
+    width: 100px;
+    padding: 2px;
+    border: 1px solid #ccc;
+    font-size: 20px;
+}
+
+#header input#submit_button {
+    height: 26px;
+    padding: 2px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 0 20px 20px 0;
+    font-size: 20px;
+    text-indent: -9999px;
+    width: 26px;
+    border-left: none;
+}
+
+#header h1 {
+    float: left;
+    margin: 8px 0 0 0;
+}
+
+#header h1 a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#header form {
+    float: right;
+}
+
+#header .chatter {
+    font-size: 16px;
+    max-width: 600px;
+    margin: 10px 0;
+}
+
+h1.route_number { 
+    font-size: 50px;
+    font-family: Helvetica, Arial, sans-serif; 
+    margin: 20px 0; 
+    text-align: center;
+}
+
+h1.route_number span {
+    color: #ffffff;
+    padding: 10px 10px 0px;
+    line-height: 10px;
+    border-radius: 7px; 
+}
+
+span.reduced, a.reduced { 
+    background: #8873c3;
+}
+
+span.deleted, a.deleted {
+  background: #c27373;
+}
+
+span.unchanged, a.unchanged {
+  background: #919191;
+}
+
+
+p.route_chatter {
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+p.route_chatter a.reduced, p.route_chatter a.deleted, p.route_chatter a.unchanged {
+  border-radius: 7px 7px 7px 7px;
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 12px;
+  padding: 2px 5px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+ul.route_links {
+    margin: 10px auto;
+    font-size: 14px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul.route_links li { 
+    display: inline;
+}
+
 
 ul.filter_options {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    list-style: none;
+    margin: 15px 0;
+    padding: 0;
 }
 
 ul.filter_options li {
-  display: block;
-  float: left; 
-  margin: 0 5px 0 0;
+    display: inline;
+    margin: 0 5px 0 0;
 }
 
+ul.filter_options li.filter {
+    font-weight: bold;
+}
 
 /* Table resets */
 table, tbody, tfoot, thead, tr, th, td {
-    margin: 0 !important;
-    padding: 0 !important;
+    margin: 0;
+    padding: 0;
     border: 0;
     outline: 0;
     font-size: 100%;
@@ -36,6 +182,14 @@ table, tbody, tfoot, thead, tr, th, td {
 #transit_routes {
   width: 100%;
   clear: both;
+  font-size: 16px;
+  line-height: 120%;
+  margin: 10px 0;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+td { 
+    padding: 2px;
 }
 
 td span {
@@ -48,76 +202,58 @@ td span {
   
 }
 
-td span.reduced { 
-  background: #8873c3;
-}
-
-td span.deleted {
-  background: #c27373;
-}
-
-td span.unchanged {
-  background: #919191;
-}
-
 /* Zebra striping */
-#transit_routes tbody tr:nth-of-type(odd) { 
+#transit_routes tbody tr:nth-of-type(even) { 
   background: #eee; 
 }
 
 th { 
-  background: #333; 
-  color: white; 
   font-weight: bold; 
+  border-bottom: 1px solid #eee;
 }
 
 td, th { 
-  padding: 6px; 
-  border: 1px solid #ccc; 
   text-align: left; 
 }
 
-/* 
-Max width before this PARTICULAR table gets nasty
-This query will take effect for any screen smaller than 760px
-and also iPads specifically.
-*/
-@media 
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
+/* For larger screens */
+@media (min-width: 600px){
+    #header a#st_logo {
+        width: 50px;
+        height: 34px;  
+        background: url(../images/st_logo.png) 0 0 no-repeat;  
+    }
+    #header h1 {
+        font-size: 40px;
+        margin: 0;
+    }
+    
+    #header input#routeSearch {
+        height: 40px;
+        width: 100px;
+        padding: 2px;
+        border: 1px solid #ccc;
+        font-size: 20px;
+    }
 
+    #header input#submit_button {
+        height: 46px;
+        padding: 2px;
+        cursor: pointer;
+        border-radius: 0 40px 40px 0;
+        font-size: 40px;
+        width: 46px;
+        background: #eeeeee url(../images/search.png) 5px 5px no-repeat;
+    }
 
-table, thead, tbody, th, td, tr { 
-		display: block; 
-	}
-
-/* Hide table headers (but not display: none;, for accessibility) */
-	thead tr { 
-		position: absolute;
-		top: -9999px;
-		left: -9999px;
-	}
-	
-	tr { border: 1px solid #ccc; }
-	
-	td { 
-		/* Behave  like a "row" */
-		border: none;
-		border-bottom: 1px solid #eee; 
-		position: relative;
-		padding-left: 50%; 
-	}
-	
-	td:before { 
-		/* Now like a table header */
-		position: absolute;
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%; 
-		padding-right: 10px; 
-		white-space: nowrap;
-	}
+    
+    h1.route_number { 
+        font-size: 100px;
+    }
+    
+    td { 
+        padding: 5px 2px;
+    }
 }
-	
+
 	
