@@ -2,17 +2,30 @@
   Transit reductions
   A Django-powered app by Jon Schleuss for The Seattle Times
 */
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot');
+	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.woff') format('woff'),
+		url('../fonts/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 
 body { 
     font-family: Palatino, Georgia, serif; 
     color: #333333; 
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 h1 {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 22px;
+    font-size: 26px;
     margin: 0;
 }
 
@@ -32,7 +45,7 @@ p {
 }
 
 #page_content {
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 #header {
@@ -41,43 +54,13 @@ p {
 }
 
 
-#header a#st_logo {
-    display: block;
-    float: left;
-    width: 50px;
-    height: 34px;  
-    text-indent: -9999px;
-    background: url(../images/st_logo.png) 0 0 no-repeat; 
-    margin: 0 10px 0 0; 
-}
-
-#header form input {
-    float: left;
-}
-
-#header input#routeSearch {
-    height: 20px;
-    width: 100px;
-    padding: 2px;
-    border: 1px solid #ccc;
-    font-size: 20px;
-}
-
-#header input#submit_button {
-    height: 26px;
-    padding: 2px;
-    border: 1px solid #ccc;
-    cursor: pointer;
-    border-radius: 0 20px 20px 0;
-    font-size: 20px;
-    text-indent: -9999px;
-    width: 26px;
-    border-left: none;
-}
-
 #header h1 {
     float: left;
-    margin: 8px 0 0 0;
+    margin: 0;
+}
+
+#header h1 a#st_logo {
+    
 }
 
 #header h1 a {
@@ -85,8 +68,53 @@ p {
     text-decoration: none;
 }
 
+/* Header form for route input */
 #header form {
-    float: right;
+    clear: both;
+    display: block;
+    margin: 0 auto;
+    width: 160px;
+}
+
+#header form input, #header form button#submit_button {
+    float: left;
+    height: 40px;
+    -webkit-appearance: none;
+    border: 1px solid #ccc;
+}
+
+
+#header input#routeSearch {
+    padding: 5px;
+    width: 100px;
+    font-size: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    border-radius: 5px 0 0 5px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+}
+
+#header form button#submit_button {
+    height: 52px;
+    width: 29px;
+    padding: 0;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+    font-size: 20px;
+    color: #555555;
+    background: #eee;
+    cursor: pointer;
+}
+
+#header input#submit_button {
+    width: 29px;
+    height: 52px;
+    background: #eeeeee;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+    text-indent: -9999px;
+    border-left: none;
+
 }
 
 #header .chatter {
@@ -216,34 +244,36 @@ td, th {
   text-align: left; 
 }
 
+/* FONT ICONS */
+.icon-search, .icon-st {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-search:before {
+	content: "\e000";
+}
+.icon-st:before {
+	content: "\e001";
+}
+
+
 /* For larger screens */
 @media (min-width: 600px){
-    #header a#st_logo {
+    #page_content {
+        margin: 0 10px;
+    }
+
+    #header a#st_logo img {
         width: 50px;
-        height: 34px;  
-        background: url(../images/st_logo.png) 0 0 no-repeat;  
     }
     #header h1 {
         font-size: 40px;
-        margin: 0;
-    }
-    
-    #header input#routeSearch {
-        height: 40px;
-        width: 100px;
-        padding: 2px;
-        border: 1px solid #ccc;
-        font-size: 20px;
-    }
-
-    #header input#submit_button {
-        height: 46px;
-        padding: 2px;
-        cursor: pointer;
-        border-radius: 0 40px 40px 0;
-        font-size: 40px;
-        width: 46px;
-        background: #eeeeee url(../images/search.png) 5px 5px no-repeat;
     }
 
     
