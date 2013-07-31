@@ -16,10 +16,3 @@ $(".unchanged_button").click(function () {
     $(".route").hide();
     $(".unchanged").show();
 });
-
-// doesnt work
-$(".active").click(function () {
-    $(".filter_button").removeClass("active");
-    $(".route").hide();
-    $(".route").show();
-});

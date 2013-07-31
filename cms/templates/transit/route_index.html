@@ -33,19 +33,26 @@
 {% block content %}
 <div id="page_content">
 <div id="header">
-    <h1><a href="http://www.seattletimes.com" title="seattletimes.com" class="icon-st"></a><a href="">What's your route?</a></h1>
+    <form method="get" action"." class="transit_search desktop_only">
+    	<input type="text" name="q" class="route_search">
+    	<button class="icon-search submit_button"></button>
+    </form>
     
+    <h1><a href="http://www.seattletimes.com" title="seattletimes.com" class="icon-st"></a><a href="">What's your route?</a></h1>
+
     <div class="clr"></div>
+    
     <p class="chatter">King County Metro will eliminate, reduce or revise about two-thirds of its bus routes to close an expected $75 million shortfall beginning mid-2014. Will your route be affected?</p>
-    <form method="get" action".">
-    	<input type="text" name="q" id="routeSearch">
-    	<button class="icon-search" id="submit_button"></button>
+    <form method="get" action"." class="transit_search mobile_only">
+    	<input type="text" name="q" class="route_search">
+    	<button class="icon-search submit_button"></button>
     </form>
     
     <div class="clr"></div>
 </div><!-- #header -->
 
 {% for route in selection %}
+<div class="route_detail">
     <h1 class="route_number"><span class="{{ route.get_change_display }}">{{ query }}</span></h1>
     
     <p class="route_chatter">The {{ query }}, which runs {{ route.description }}, could be <a class="{{ route.get_change_display }} {{ route.get_change_display }}_button">{{ route.get_change_display }}</a>.</p>
@@ -53,8 +60,8 @@
         <li><a href="{{ route.schedule_link }}">Schedule</a></li>
         <li><a href="{{ route.map_link }}">Map</a></li>
     </ul>
-    
-    {% endfor %}
+</div><!-- .route_detail -->    
+{% endfor %}
     
     
     <h1 id="table_header">King County Metro Routes</h1>
@@ -88,7 +95,7 @@
     </table>
     
     <p class="source">Source: <a href="http://metro.kingcounty.gov/am/future/at-risk.html">King County Metro</a></p>
-    <p class="byline">By Jon Schleuss</p>
+    <p class="byline">By Jon Schleuss / The Seattle Times</p>
     </div><!--#page_content-->
 
     <script src="{% static "scripts/transit.js" %}"></script>

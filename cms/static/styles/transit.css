@@ -25,7 +25,7 @@ body {
 
 h1 {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 26px;
+    font-size: 28px;
     margin: 0;
 }
 
@@ -50,7 +50,6 @@ p {
 }
 
 #header {
-    border-bottom: 1px solid #eeeeee;
     padding: 10px 0;
 }
 
@@ -58,10 +57,6 @@ p {
 #header h1 {
     float: left;
     margin: 0;
-}
-
-#header h1 a#st_logo {
-    
 }
 
 #header h1 a {
@@ -77,7 +72,7 @@ p {
     width: 160px;
 }
 
-#header form input, #header form button#submit_button {
+#header form input, #header form button.submit_button {
     float: left;
     height: 40px;
     -webkit-appearance: none;
@@ -85,7 +80,7 @@ p {
 }
 
 
-#header input#routeSearch {
+#header input.route_search {
     padding: 5px;
     width: 100px;
     font-size: 30px;
@@ -95,7 +90,7 @@ p {
     border: 1px solid #ccc;
 }
 
-#header form button#submit_button {
+#header form button.submit_button {
     height: 52px;
     width: 29px;
     padding: 0;
@@ -107,7 +102,7 @@ p {
     cursor: pointer;
 }
 
-#header input#submit_button {
+#header input.submit_button {
     width: 29px;
     height: 52px;
     background: #eeeeee;
@@ -121,7 +116,14 @@ p {
 #header .chatter {
     font-size: 16px;
     max-width: 600px;
-    margin: 10px 0;
+    margin: 0 0 10px 0;
+}
+
+/* Route detail */
+.route_detail {
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+    margin: 10px 0 30px;
 }
 
 h1.route_number { 
@@ -154,7 +156,6 @@ span.unchanged, a.unchanged {
 p.route_chatter {
     max-width: 200px;
     margin: 0 auto;
-    text-align: justify;
 }
 
 p.route_chatter a.reduced, p.route_chatter a.deleted, p.route_chatter a.unchanged {
@@ -191,13 +192,24 @@ ul.filter_options li {
     margin: 0 5px 0 0;
 }
 
-ul.filter_options li a {
-    text-decoration: underline;
-    cursor: pointer;
-}
-
 ul.filter_options li.filter {
     font-weight: bold;
+}
+
+ul.filter_options li a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+ul.filter_options li a.active {
+    background: #eee;
+    color: #333;
+}
+
+p.byline {
+    text-transform: uppercase;
 }
 
 /* Table resets */
@@ -222,11 +234,11 @@ table, tbody, tfoot, thead, tr, th, td {
   border-bottom: 1px solid #EEEEEE;
 }
 
-td { 
-    padding: 2px;
+#transit_routes td { 
+    padding: 5px 2px;
 }
 
-td span {
+#transit_routes td span {
   border-radius: 7px 7px 7px 7px;
   color: #FFFFFF;
   font-family: arial;
@@ -236,10 +248,13 @@ td span {
   
 }
 
+
 /* Zebra striping */
+/*
 #transit_routes tbody tr:nth-of-type(even) { 
   background: #eee; 
 }
+*/
 
 th { 
   font-weight: bold; 
@@ -249,6 +264,8 @@ th {
 td, th { 
   text-align: left; 
 }
+
+
 
 /* FONT ICONS */
 .icon-search, .icon-st {
@@ -267,28 +284,52 @@ td, th {
 .icon-st:before {
 	content: "\e001";
 }
+.icon-st {
+    margin: 0 10px 0 0;
+    font-size: 22px;
+}
 
+.desktop_only {
+    display: none !important;
+}
 
 /* For larger screens */
 @media (min-width: 600px){
+    .desktop_only {
+        display: block !important;
+    }
+    .mobile_only {
+        display: none !important;
+    }
     #page_content {
         margin: 0 10px;
+    }
+
+    #header {
+        padding: 10px 0 0;
     }
 
     #header a#st_logo img {
         width: 50px;
     }
+    
     #header h1 {
         font-size: 40px;
+        margin: 10px 0
     }
-
+    
+    #header form {
+        margin: 0;
+        float: right;
+        width: auto;
+    }
+    
+    .icon-st {
+        font-size: 32px;
+    }
     
     h1.route_number { 
         font-size: 100px;
-    }
-    
-    td { 
-        padding: 5px 2px;
     }
 }
 
