@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width">
 {% endblock %}
 {% block styles %}
+    <link rel="stylesheet" href="{% static "styles/jquery-ui.css" %}" />
     <link rel="stylesheet" type="text/css" href="{% static "styles/transit.css" %}">
-    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 {% endblock %}
 {% block scripts %}
     <script src="{% static "scripts/jquery.js" %}"></script>
@@ -46,47 +46,50 @@
 </div><!-- #header -->
 
 {% for route in selection %}
-<h1 class="route_number"><span class="{{ route.get_change_display }}">{{ query }}</span></h1>
-
-<p class="route_chatter">The {{ query }}, which runs {{ route.description }}, could be <a class="{{ route.get_change_display }}" href="">{{ route.get_change_display }}</a>.</p>
-<ul class="route_links">
-    <li><a href="{{ route.schedule_link }}">Schedule</a></li>
-    <li><a href="{{ route.map_link }}">Map</a></li>
-</ul>
-
-{% endfor %}
-
-
-<h1>King County Metro Routes</h1>
-
-<ul class="filter_options">
-  <li class="filter">Filter:</li>
-  <li><a href="">Deleted</a></li>
-  <li><a href="">Reduced</a></li>
-  <li><a href="">Unchanged </a></li>
-</ul>
-
-<div class="clr"></div>
-
-<table id="transit_routes">
-  <thead>
-    <th>Route</th>
-    <th>Description</th>
-    <th>Change</th>
-  </thead>
-  <tbody>
-    {% for route in routes %}
-    <tr class="{{ route.get_change_display }}">
-      <td><a href="?q={{ route.route_name }}">{{ route.route_name }}</a></td>
-      <td>{{ route.description }}</td>
-      <td><span class="{{ route.get_change_display }}">{{ route.get_change_display }}</span></td>
-    </tr>
+    <h1 class="route_number"><span class="{{ route.get_change_display }}">{{ query }}</span></h1>
+    
+    <p class="route_chatter">The {{ query }}, which runs {{ route.description }}, could be <a class="{{ route.get_change_display }} {{ route.get_change_display }}_button">{{ route.get_change_display }}</a>.</p>
+    <ul class="route_links">
+        <li><a href="{{ route.schedule_link }}">Schedule</a></li>
+        <li><a href="{{ route.map_link }}">Map</a></li>
+    </ul>
+    
     {% endfor %}
-  </tbody>
-</table>
+    
+    
+    <h1 id="table_header">King County Metro Routes</h1>
+    
+    <ul class="filter_options">
+      <li class="filter">Filter:</li>
+      <li><a class="deleted_button filter_button">Deleted</a></li>
+      <li><a class="revised_button filter_button">Reduced</a></li>
+      <li><a class="unchanged_button filter_button">Unchanged </a></li>
+    </ul>
+    
+    <div class="clr"></div>
+    
+    <table id="transit_routes">
+      <thead>
+        <tr class="head">
+            <th>Route</th>
+            <th>Description</th>
+            <th>Change</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for route in routes %}
+        <tr class="{{ route.get_change_display }} route">
+          <td><a href="?q={{ route.route_name }}">{{ route.route_name }}</a></td>
+          <td>{{ route.description }}</td>
+          <td><span class="{{ route.get_change_display }}">{{ route.get_change_display }}</span></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    
+    <p class="source">Source: <a href="http://metro.kingcounty.gov/am/future/at-risk.html">King County Metro</a></p>
+    <p class="byline">By Jon Schleuss</p>
+    </div><!--#page_content-->
 
-<p class="source">Source: <a href="http://metro.kingcounty.gov/am/future/at-risk.html">King County Metro</a></p>
-<p class="byline">By Jon Schleuss</p>
-</div><!--#page_content-->
-
+    <script src="{% static "scripts/transit.js" %}"></script>
 {% endblock %}

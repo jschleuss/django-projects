@@ -31,6 +31,7 @@ h1 {
 
 a { 
     color: #1e5f84;
+    cursor: pointer;
 }
 
 p {
@@ -188,6 +189,11 @@ ul.filter_options {
 ul.filter_options li {
     display: inline;
     margin: 0 5px 0 0;
+}
+
+ul.filter_options li a {
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 ul.filter_options li.filter {
