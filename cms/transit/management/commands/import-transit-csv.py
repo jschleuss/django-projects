@@ -6,7 +6,7 @@ import os, csv
 def get_choice_index(index):
   if index == 'deleted':
     return '0'
-  if index == 'reduced':
+  if index == 'revised':
     return '1'
   if index == 'unchanged':
     return '2'

@@ -1,68 +1,68 @@
-1,1,reduced,Kinnear to Downtown Seattle,http://metro.kingcounty.gov/schedules/001/map.html,http://metro.kingcounty.gov/schedules/001/
-2N,2,reduced,West Queen Anne Hill to Downtown Seattle to Madrona Park,http://metro.kingcounty.gov/schedules/002/map.html,http://metro.kingcounty.gov/schedules/002/
-2S,2,reduced,West Queen Anne Hill to Downtown Seattle to Madrona Park,http://metro.kingcounty.gov/schedules/002/map.html,http://metro.kingcounty.gov/schedules/002/
-3N,3,reduced,North Queen Anne Hill to Downtown Seattle to Madrona,http://metro.kingcounty.gov/schedules/003/map.html,http://metro.kingcounty.gov/schedules/003/
-3S,3,reduced,North Queen Anne Hill to Downtown Seattle to Madrona,http://metro.kingcounty.gov/schedules/003/map.html,http://metro.kingcounty.gov/schedules/003/
-4N,4,reduced,East Queen Anne Hill to Downtown Seattle to Judkins Park,http://metro.kingcounty.gov/schedules/004/map.html,http://metro.kingcounty.gov/schedules/004/
-4S,4,reduced,East Queen Anne Hill to Downtown Seattle to Judkins Park,http://metro.kingcounty.gov/schedules/004/map.html,http://metro.kingcounty.gov/schedules/004/
-5,5,reduced,Shoreline CC to Greenwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/005/map.html,http://metro.kingcounty.gov/schedules/005/
-5EX,5,reduced,Shoreline CC to Greenwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/005/map.html,http://metro.kingcounty.gov/schedules/005/
-7,7,reduced,Rainier Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/007/map.html,http://metro.kingcounty.gov/schedules/007/
+1,1,revised,Kinnear to Downtown Seattle,http://metro.kingcounty.gov/schedules/001/map.html,http://metro.kingcounty.gov/schedules/001/
+2N,2,revised,West Queen Anne Hill to Downtown Seattle to Madrona Park,http://metro.kingcounty.gov/schedules/002/map.html,http://metro.kingcounty.gov/schedules/002/
+2S,2,revised,West Queen Anne Hill to Downtown Seattle to Madrona Park,http://metro.kingcounty.gov/schedules/002/map.html,http://metro.kingcounty.gov/schedules/002/
+3N,3,revised,North Queen Anne Hill to Downtown Seattle to Madrona,http://metro.kingcounty.gov/schedules/003/map.html,http://metro.kingcounty.gov/schedules/003/
+3S,3,revised,North Queen Anne Hill to Downtown Seattle to Madrona,http://metro.kingcounty.gov/schedules/003/map.html,http://metro.kingcounty.gov/schedules/003/
+4N,4,revised,East Queen Anne Hill to Downtown Seattle to Judkins Park,http://metro.kingcounty.gov/schedules/004/map.html,http://metro.kingcounty.gov/schedules/004/
+4S,4,revised,East Queen Anne Hill to Downtown Seattle to Judkins Park,http://metro.kingcounty.gov/schedules/004/map.html,http://metro.kingcounty.gov/schedules/004/
+5,5,revised,Shoreline CC to Greenwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/005/map.html,http://metro.kingcounty.gov/schedules/005/
+5EX,5,revised,Shoreline CC to Greenwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/005/map.html,http://metro.kingcounty.gov/schedules/005/
+7,7,revised,Rainier Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/007/map.html,http://metro.kingcounty.gov/schedules/007/
 7EX,7,deleted,Rainier Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/007/map.html,http://metro.kingcounty.gov/schedules/007/
-8,8,reduced,Seattle Center to Capitol Hill to Rainier Beach,http://metro.kingcounty.gov/schedules/008/map.html,http://metro.kingcounty.gov/schedules/008/
-9EX,9,reduced,Rainier Beach to Columbia City to Broadway,http://metro.kingcounty.gov/schedules/009/map.html,http://metro.kingcounty.gov/schedules/009/
-10,10,reduced,Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/010/map.html,http://metro.kingcounty.gov/schedules/010/
-11,11,reduced,Madison Park to Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/011/map.html,http://metro.kingcounty.gov/schedules/011/
-12,12,reduced,Interlaken Park to First Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/012/map.html,http://metro.kingcounty.gov/schedules/012/
+8,8,revised,Seattle Center to Capitol Hill to Rainier Beach,http://metro.kingcounty.gov/schedules/008/map.html,http://metro.kingcounty.gov/schedules/008/
+9EX,9,revised,Rainier Beach to Columbia City to Broadway,http://metro.kingcounty.gov/schedules/009/map.html,http://metro.kingcounty.gov/schedules/009/
+10,10,revised,Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/010/map.html,http://metro.kingcounty.gov/schedules/010/
+11,11,revised,Madison Park to Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/011/map.html,http://metro.kingcounty.gov/schedules/011/
+12,12,revised,Interlaken Park to First Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/012/map.html,http://metro.kingcounty.gov/schedules/012/
 13,13,unchanged,Seattle Pacific to Downtown Seattle,http://metro.kingcounty.gov/schedules/013/map.html,http://metro.kingcounty.gov/schedules/013/
-14S,14,reduced,Mount Baker to Downtown Seattle,http://metro.kingcounty.gov/schedules/014/map.html,http://metro.kingcounty.gov/schedules/014/
+14S,14,revised,Mount Baker to Downtown Seattle,http://metro.kingcounty.gov/schedules/014/map.html,http://metro.kingcounty.gov/schedules/014/
 15EX,15,unchanged,Blue Ridge & Crown Hill to 15th Av NW & Ballard to Downtown Seattle,http://metro.kingcounty.gov/schedules/015/map.html,http://metro.kingcounty.gov/schedules/015/
-16,16,reduced,Northgate TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/016/map.html,http://metro.kingcounty.gov/schedules/016/
+16,16,revised,Northgate TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/016/map.html,http://metro.kingcounty.gov/schedules/016/
 17EX,17,unchanged,Loyal Heights & Sunset Hill to 32nd Av NW & Ballard to Downtown Seattle,http://metro.kingcounty.gov/schedules/017/map.html,http://metro.kingcounty.gov/schedules/017/
 18EX,18,unchanged,North Beach to 24th Av NW & Ballard to Downtown Seattle,http://metro.kingcounty.gov/schedules/018/map.html,http://metro.kingcounty.gov/schedules/018/
 19,19,deleted,West Magnolia to Downtown Seattle,http://metro.kingcounty.gov/schedules/019/map.html,http://metro.kingcounty.gov/schedules/019/
-21,21,reduced,Westwood Village to Downtown Seattle,http://metro.kingcounty.gov/schedules/021/map.html,http://metro.kingcounty.gov/schedules/021/
+21,21,revised,Westwood Village to Downtown Seattle,http://metro.kingcounty.gov/schedules/021/map.html,http://metro.kingcounty.gov/schedules/021/
 21EX,21,deleted,Arbor Heights to Downtown Seattle,http://metro.kingcounty.gov/schedules/021/map.html,http://metro.kingcounty.gov/schedules/021/
 22,22,deleted,Westwood Village to Shorewood & Gatewood to Alaska Junction,http://metro.kingcounty.gov/schedules/022/map.html,http://metro.kingcounty.gov/schedules/022/
-24,24,reduced,West Magnolia to Downtown Seattle,http://metro.kingcounty.gov/schedules/024/map.html,http://metro.kingcounty.gov/schedules/024/
+24,24,revised,West Magnolia to Downtown Seattle,http://metro.kingcounty.gov/schedules/024/map.html,http://metro.kingcounty.gov/schedules/024/
 25,25,deleted,Laurelhurst to Downtown Seattle,http://metro.kingcounty.gov/schedules/025/map.html,http://metro.kingcounty.gov/schedules/025/
-26,26,reduced,East Green Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/026/map.html,http://metro.kingcounty.gov/schedules/026/
-26EX,26,reduced,East Green Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/026/map.html,http://metro.kingcounty.gov/schedules/026/
+26,26,revised,East Green Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/026/map.html,http://metro.kingcounty.gov/schedules/026/
+26EX,26,revised,East Green Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/026/map.html,http://metro.kingcounty.gov/schedules/026/
 27,27,deleted,Colman Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/027/map.html,http://metro.kingcounty.gov/schedules/027/
-28,28,reduced,Whittier Heights to Fremont to Downtown Seattle,http://metro.kingcounty.gov/schedules/028/map.html,http://metro.kingcounty.gov/schedules/028/
-28EX,28,reduced,Broadview to Aurora Av N to Downtown Seattle,http://metro.kingcounty.gov/schedules/028/map.html,http://metro.kingcounty.gov/schedules/028/
-29,29,reduced,Ballard to SPU & Queen Anne to Downtown Seattle,http://metro.kingcounty.gov/schedules/029/map.html,http://metro.kingcounty.gov/schedules/029/
+28,28,revised,Whittier Heights to Fremont to Downtown Seattle,http://metro.kingcounty.gov/schedules/028/map.html,http://metro.kingcounty.gov/schedules/028/
+28EX,28,revised,Broadview to Aurora Av N to Downtown Seattle,http://metro.kingcounty.gov/schedules/028/map.html,http://metro.kingcounty.gov/schedules/028/
+29,29,revised,Ballard to SPU & Queen Anne to Downtown Seattle,http://metro.kingcounty.gov/schedules/029/map.html,http://metro.kingcounty.gov/schedules/029/
 30,30,deleted,Sand Point to University District,http://metro.kingcounty.gov/schedules/030/map.html,http://metro.kingcounty.gov/schedules/030/
-31,31,reduced,University District to Fremont to Central Magnolia,http://metro.kingcounty.gov/schedules/031/map.html,http://metro.kingcounty.gov/schedules/031/
+31,31,revised,University District to Fremont to Central Magnolia,http://metro.kingcounty.gov/schedules/031/map.html,http://metro.kingcounty.gov/schedules/031/
 32,32,unchanged,University District to Fremont to Interbay to Seattle Center West,http://metro.kingcounty.gov/schedules/032/map.html,http://metro.kingcounty.gov/schedules/032/
-33**,33,unchanged,Discovery Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/033/map.html,http://metro.kingcounty.gov/schedules/033/
-36,36,reduced,Othello Station to Beacon Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/036/map.html,http://metro.kingcounty.gov/schedules/036/
+33,33,unchanged,Discovery Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/033/map.html,http://metro.kingcounty.gov/schedules/033/
+36,36,revised,Othello Station to Beacon Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/036/map.html,http://metro.kingcounty.gov/schedules/036/
 37,37,deleted,Alaska Junction to Alki to Downtown Seattle,http://metro.kingcounty.gov/schedules/037/map.html,http://metro.kingcounty.gov/schedules/037/
 40,40,unchanged,Northgate TC to Ballard to Fremont & Westlake to Downtown Seattle,http://metro.kingcounty.gov/schedules/040/map.html,http://metro.kingcounty.gov/schedules/040/
-41,41,reduced,Lake City to Northgate TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/041/map.html,http://metro.kingcounty.gov/schedules/041/
-43,43,reduced,University District to Montlake to Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/043/map.html,http://metro.kingcounty.gov/schedules/043/
+41,41,revised,Lake City to Northgate TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/041/map.html,http://metro.kingcounty.gov/schedules/041/
+43,43,revised,University District to Montlake to Capitol Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/043/map.html,http://metro.kingcounty.gov/schedules/043/
 44,44,unchanged,Ballard to Montlake,http://metro.kingcounty.gov/schedules/044/map.html,http://metro.kingcounty.gov/schedules/044/
-47,47,reduced,Summit to Downtown Seattle,http://metro.kingcounty.gov/schedules/047/map.html,http://metro.kingcounty.gov/schedules/047/
-48N,48,reduced,Mt Baker to University District to Loyal Heights,http://metro.kingcounty.gov/schedules/048/map.html,http://metro.kingcounty.gov/schedules/048/
+47,47,revised,Summit to Downtown Seattle,http://metro.kingcounty.gov/schedules/047/map.html,http://metro.kingcounty.gov/schedules/047/
+48N,48,revised,Mt Baker to University District to Loyal Heights,http://metro.kingcounty.gov/schedules/048/map.html,http://metro.kingcounty.gov/schedules/048/
 48NEX,48,deleted,Mt Baker to University District to Loyal Heights,http://metro.kingcounty.gov/schedules/048/map.html,http://metro.kingcounty.gov/schedules/048/
 48S,48,unchanged,Mt Baker to University District to Loyal Heights,http://metro.kingcounty.gov/schedules/048/map.html,http://metro.kingcounty.gov/schedules/048/
 49,49,unchanged,University District to Broadway to Downtown Seattle,http://metro.kingcounty.gov/schedules/049/map.html,http://metro.kingcounty.gov/schedules/049/
 50,50,unchanged,Alki to West Seattle to SODO to Beacon Hill/VA Hospital to Columbia City,http://metro.kingcounty.gov/schedules/050/map.html,http://metro.kingcounty.gov/schedules/050/
-55**,55,unchanged,Admiral District to Alaska Junction to Downtown Seattle,http://metro.kingcounty.gov/schedules/055/map.html,http://metro.kingcounty.gov/schedules/055/
+55,55,unchanged,Admiral District to Alaska Junction to Downtown Seattle,http://metro.kingcounty.gov/schedules/055/map.html,http://metro.kingcounty.gov/schedules/055/
 56EX,56,unchanged,Alki to Admiral District to Downtown Seattle,http://metro.kingcounty.gov/schedules/056/map.html,http://metro.kingcounty.gov/schedules/056/
 57,57,deleted,Alaska Junction to Genesee Hill to Admiral District to Downtown Seattle,http://metro.kingcounty.gov/schedules/057/map.html,http://metro.kingcounty.gov/schedules/057/
-60,60,reduced,Westwood Village to Georgetown to Beacon Hill to Broadway,http://metro.kingcounty.gov/schedules/060/map.html,http://metro.kingcounty.gov/schedules/060/
+60,60,revised,Westwood Village to Georgetown to Beacon Hill to Broadway,http://metro.kingcounty.gov/schedules/060/map.html,http://metro.kingcounty.gov/schedules/060/
 61,61,deleted,North Beach to Sunset Hill to Ballard,http://metro.kingcounty.gov/schedules/061/map.html,http://metro.kingcounty.gov/schedules/061/
 62,62,unchanged,Ballard to SPU & Westlake to Downtown Seattle,http://metro.kingcounty.gov/schedules/062/map.html,http://metro.kingcounty.gov/schedules/062/
 64EX,64,unchanged,Lake City to Downtown Seattle to First Hill,http://metro.kingcounty.gov/schedules/064/map.html,http://metro.kingcounty.gov/schedules/064/
-65,65,reduced,Lake City to University District,http://metro.kingcounty.gov/schedules/065/map.html,http://metro.kingcounty.gov/schedules/065/
-66EX,66,reduced,Northgate TC to University District to Downtown Seattle,http://metro.kingcounty.gov/schedules/066/map.html,http://metro.kingcounty.gov/schedules/066/
-67,67,reduced,Northgate TC to Roosevelt to University District,http://metro.kingcounty.gov/schedules/067/map.html,http://metro.kingcounty.gov/schedules/067/
-68,68,reduced,Northgate TC to Ravenna to University District,http://metro.kingcounty.gov/schedules/068/map.html,http://metro.kingcounty.gov/schedules/068/
-70,70,reduced,University District to Eastlake to Downtown Seattle,http://metro.kingcounty.gov/schedules/070/map.html,http://metro.kingcounty.gov/schedules/070/
-71,71,reduced,Wedgwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/071/map.html,http://metro.kingcounty.gov/schedules/071/
-72,72,reduced,Lake City to Downtown Seattle,http://metro.kingcounty.gov/schedules/072/map.html,http://metro.kingcounty.gov/schedules/072/
-73,73,reduced,Jackson Park to Cowen Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/073/map.html,http://metro.kingcounty.gov/schedules/073/
+65,65,revised,Lake City to University District,http://metro.kingcounty.gov/schedules/065/map.html,http://metro.kingcounty.gov/schedules/065/
+66EX,66,revised,Northgate TC to University District to Downtown Seattle,http://metro.kingcounty.gov/schedules/066/map.html,http://metro.kingcounty.gov/schedules/066/
+67,67,revised,Northgate TC to Roosevelt to University District,http://metro.kingcounty.gov/schedules/067/map.html,http://metro.kingcounty.gov/schedules/067/
+68,68,revised,Northgate TC to Ravenna to University District,http://metro.kingcounty.gov/schedules/068/map.html,http://metro.kingcounty.gov/schedules/068/
+70,70,revised,University District to Eastlake to Downtown Seattle,http://metro.kingcounty.gov/schedules/070/map.html,http://metro.kingcounty.gov/schedules/070/
+71,71,revised,Wedgwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/071/map.html,http://metro.kingcounty.gov/schedules/071/
+72,72,revised,Lake City to Downtown Seattle,http://metro.kingcounty.gov/schedules/072/map.html,http://metro.kingcounty.gov/schedules/072/
+73,73,revised,Jackson Park to Cowen Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/073/map.html,http://metro.kingcounty.gov/schedules/073/
 74EX,74,unchanged,Sand Point to Downtown Seattle,http://metro.kingcounty.gov/schedules/074/map.html,http://metro.kingcounty.gov/schedules/074/
 75,75,unchanged,Northgate TC to Lake City & Sand Point to University District,http://metro.kingcounty.gov/schedules/075/map.html,http://metro.kingcounty.gov/schedules/075/
 76,76,deleted,Wedgwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/076/map.html,http://metro.kingcounty.gov/schedules/076/
@@ -74,36 +74,36 @@
 101,101,unchanged,Renton TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/101/map.html,http://metro.kingcounty.gov/schedules/101/
 102,102,unchanged,Fairwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/102/map.html,http://metro.kingcounty.gov/schedules/102/
 105,105,unchanged,Renton Highlands to Renton,http://metro.kingcounty.gov/schedules/105/map.html,http://metro.kingcounty.gov/schedules/105/
-106,106,reduced,Renton TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/106/map.html,http://metro.kingcounty.gov/schedules/106/
-107,107,reduced,Renton TC to Rainier Beach,http://metro.kingcounty.gov/schedules/107/map.html,http://metro.kingcounty.gov/schedules/107/
+106,106,revised,Renton TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/106/map.html,http://metro.kingcounty.gov/schedules/106/
+107,107,revised,Renton TC to Rainier Beach,http://metro.kingcounty.gov/schedules/107/map.html,http://metro.kingcounty.gov/schedules/107/
 110,110,deleted,Tukwila Sounder Station to North Renton,http://metro.kingcounty.gov/schedules/110/map.html,http://metro.kingcounty.gov/schedules/110/
 111,111,unchanged,Lake Kathleen to Downtown Seattle,http://metro.kingcounty.gov/schedules/111/map.html,http://metro.kingcounty.gov/schedules/111/
 113,113,deleted,Shorewood to Downtown Seattle,http://metro.kingcounty.gov/schedules/113/map.html,http://metro.kingcounty.gov/schedules/113/
 114,114,deleted,Renton Highlands to Downtown Seattle,http://metro.kingcounty.gov/schedules/114/map.html,http://metro.kingcounty.gov/schedules/114/
-116EX,116,reduced,Fauntleroy Ferry to Downtown Seattle,http://metro.kingcounty.gov/schedules/116/map.html,http://metro.kingcounty.gov/schedules/116/
-118,118,reduced,Tahlequah to Vashon to Downtown Seattle,http://metro.kingcounty.gov/schedules/118/map.html,http://metro.kingcounty.gov/schedules/118/
+116EX,116,revised,Fauntleroy Ferry to Downtown Seattle,http://metro.kingcounty.gov/schedules/116/map.html,http://metro.kingcounty.gov/schedules/116/
+118,118,revised,Tahlequah to Vashon to Downtown Seattle,http://metro.kingcounty.gov/schedules/118/map.html,http://metro.kingcounty.gov/schedules/118/
 118EX,118,deleted,Tahlequah to Vashon to Downtown Seattle,http://metro.kingcounty.gov/schedules/118/map.html,http://metro.kingcounty.gov/schedules/118/
 119,119,deleted,Dockton to Vashon to Downtown Seattle,http://metro.kingcounty.gov/schedules/119/map.html,http://metro.kingcounty.gov/schedules/119/
 119EX,119,deleted,Dockton to Vashon to Downtown Seattle,http://metro.kingcounty.gov/schedules/119/map.html,http://metro.kingcounty.gov/schedules/119/
 120,120,unchanged,Burien TC to Westwood Village to Downtown Seattle,http://metro.kingcounty.gov/schedules/120/map.html,http://metro.kingcounty.gov/schedules/120/
-121,121,reduced,Highline Community College to Burien TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/121/map.html,http://metro.kingcounty.gov/schedules/121/
-122,122,reduced,Highline Community College to Burien TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/122/map.html,http://metro.kingcounty.gov/schedules/122/
+121,121,revised,Highline Community College to Burien TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/121/map.html,http://metro.kingcounty.gov/schedules/121/
+122,122,revised,Highline Community College to Burien TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/122/map.html,http://metro.kingcounty.gov/schedules/122/
 123EX,123,deleted,Gregory Heights to Burien to Downtown Seattle,http://metro.kingcounty.gov/schedules/123/map.html,http://metro.kingcounty.gov/schedules/123/
 124,124,unchanged,Tukwila Intl Blvd Link Station to Downtown Seattle,http://metro.kingcounty.gov/schedules/124/map.html,http://metro.kingcounty.gov/schedules/124/
-125,125,reduced,Westwood Village to SSCC to Downtown Seattle,http://metro.kingcounty.gov/schedules/125/map.html,http://metro.kingcounty.gov/schedules/125/
+125,125,revised,Westwood Village to SSCC to Downtown Seattle,http://metro.kingcounty.gov/schedules/125/map.html,http://metro.kingcounty.gov/schedules/125/
 128,128,unchanged,Southcenter to SSCC to Alaska Junction to Admiral District,http://metro.kingcounty.gov/schedules/128/map.html,http://metro.kingcounty.gov/schedules/128/
-131**,131,unchanged,Burien TC to Georgetown & 4th Av S to Downtown Seattle,http://metro.kingcounty.gov/schedules/131/map.html,http://metro.kingcounty.gov/schedules/131/
-132**,132,unchanged,Burien TC to South Park & 4th Av S to Downtown Seattle,http://metro.kingcounty.gov/schedules/132/map.html,http://metro.kingcounty.gov/schedules/132/
+131,131,unchanged,Burien TC to Georgetown & 4th Av S to Downtown Seattle,http://metro.kingcounty.gov/schedules/131/map.html,http://metro.kingcounty.gov/schedules/131/
+132,132,unchanged,Burien TC to South Park & 4th Av S to Downtown Seattle,http://metro.kingcounty.gov/schedules/132/map.html,http://metro.kingcounty.gov/schedules/132/
 139,139,deleted,Burien TC to Highline Hospital to Gregory Heights,http://metro.kingcounty.gov/schedules/139/map.html,http://metro.kingcounty.gov/schedules/139/
 140,140,unchanged,Burien TC to Tukwila Intl Blvd Link Station to Renton TC,http://metro.kingcounty.gov/schedules/140/map.html,http://metro.kingcounty.gov/schedules/140/
 143EX,143,unchanged,Black Diamond to Downtown Seattle,http://metro.kingcounty.gov/schedules/143/map.html,http://metro.kingcounty.gov/schedules/143/
-148,148,reduced,Fairwood to Renton TC,http://metro.kingcounty.gov/schedules/148/map.html,http://metro.kingcounty.gov/schedules/148/
+148,148,revised,Fairwood to Renton TC,http://metro.kingcounty.gov/schedules/148/map.html,http://metro.kingcounty.gov/schedules/148/
 150,150,unchanged,Kent Rail Station to Southcenter to Downtown Seattle,http://metro.kingcounty.gov/schedules/150/map.html,http://metro.kingcounty.gov/schedules/150/
 152,152,deleted,Auburn to Downtown Seattle,http://metro.kingcounty.gov/schedules/152/map.html,http://metro.kingcounty.gov/schedules/152/
 153,153,unchanged,Kent Rail Station to Renton TC,http://metro.kingcounty.gov/schedules/153/map.html,http://metro.kingcounty.gov/schedules/153/
 154,154,deleted,Tukwila Station to Boeing Industrial,http://metro.kingcounty.gov/schedules/154/map.html,http://metro.kingcounty.gov/schedules/154/
 155,155,unchanged,Fairwood to Southcenter,http://metro.kingcounty.gov/schedules/155/map.html,http://metro.kingcounty.gov/schedules/155/
-156,156,reduced,Southcenter to Sea Tac to Des Moines to Highline CC,http://metro.kingcounty.gov/schedules/156/map.html,http://metro.kingcounty.gov/schedules/156/
+156,156,revised,Southcenter to Sea Tac to Des Moines to Highline CC,http://metro.kingcounty.gov/schedules/156/map.html,http://metro.kingcounty.gov/schedules/156/
 157,157,deleted,Lake Meridian P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/157/map.html,http://metro.kingcounty.gov/schedules/157/
 158,158,unchanged,Kent East Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/158/map.html,http://metro.kingcounty.gov/schedules/158/
 159,159,deleted,Timberlane to Lake Meridian P&R to Kent Rail Station to Downtown Seattle,http://metro.kingcounty.gov/schedules/159/map.html,http://metro.kingcounty.gov/schedules/159/
@@ -114,62 +114,62 @@
 168,168,unchanged,Maple Valley to Kent Rail Station,http://metro.kingcounty.gov/schedules/168/map.html,http://metro.kingcounty.gov/schedules/168/
 169,169,unchanged,Kent Rail Station to Renton TC,http://metro.kingcounty.gov/schedules/169/map.html,http://metro.kingcounty.gov/schedules/169/
 173,173,deleted,Federal Way TC to Boeing Industrial to Federal Center South,http://metro.kingcounty.gov/schedules/173/map.html,http://metro.kingcounty.gov/schedules/173/
-177,177,reduced,Federal Way P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/177/map.html,http://metro.kingcounty.gov/schedules/177/
+177,177,revised,Federal Way P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/177/map.html,http://metro.kingcounty.gov/schedules/177/
 178,178,unchanged,Federal Way P&R to Federal Way TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/178/map.html,http://metro.kingcounty.gov/schedules/178/
 179,179,deleted,Twin Lakes P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/179/map.html,http://metro.kingcounty.gov/schedules/179/
 180,180,unchanged,Southeast Auburn to Kent Rail Station to Sea-Tac to Burien TC,http://metro.kingcounty.gov/schedules/180/map.html,http://metro.kingcounty.gov/schedules/180/
-181,181,reduced,Twin Lakes P&R to Auburn Station to Green River Community College,http://metro.kingcounty.gov/schedules/181/map.html,http://metro.kingcounty.gov/schedules/181/
-182,182,reduced,Northeast Tacoma to Federal Way TC,http://metro.kingcounty.gov/schedules/182/map.html,http://metro.kingcounty.gov/schedules/182/
+181,181,revised,Twin Lakes P&R to Auburn Station to Green River Community College,http://metro.kingcounty.gov/schedules/181/map.html,http://metro.kingcounty.gov/schedules/181/
+182,182,revised,Northeast Tacoma to Federal Way TC,http://metro.kingcounty.gov/schedules/182/map.html,http://metro.kingcounty.gov/schedules/182/
 183,183,unchanged,Federal Way TC to Star Lake to Kent Rail Station,http://metro.kingcounty.gov/schedules/183/map.html,http://metro.kingcounty.gov/schedules/183/
-186,186,reduced,Enumclaw to Auburn Station,http://metro.kingcounty.gov/schedules/186/map.html,http://metro.kingcounty.gov/schedules/186/
-187,187,reduced,Federal Way TC to Twin Lakes,http://metro.kingcounty.gov/schedules/187/map.html,http://metro.kingcounty.gov/schedules/187/
+186,186,revised,Enumclaw to Auburn Station,http://metro.kingcounty.gov/schedules/186/map.html,http://metro.kingcounty.gov/schedules/186/
+187,187,revised,Federal Way TC to Twin Lakes,http://metro.kingcounty.gov/schedules/187/map.html,http://metro.kingcounty.gov/schedules/187/
 190,190,deleted,Redondo Heights P&R to Star Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/190/map.html,http://metro.kingcounty.gov/schedules/190/
 192,192,deleted,Star Lake to Downtown Seattle,http://metro.kingcounty.gov/schedules/192/map.html,http://metro.kingcounty.gov/schedules/192/
-193EX,193,reduced,Federal Way P&R to First Hill,http://metro.kingcounty.gov/schedules/193/map.html,http://metro.kingcounty.gov/schedules/193/
+193EX,193,revised,Federal Way P&R to First Hill,http://metro.kingcounty.gov/schedules/193/map.html,http://metro.kingcounty.gov/schedules/193/
 197,197,deleted,Twin Lakes P&R to University District,http://metro.kingcounty.gov/schedules/197/map.html,http://metro.kingcounty.gov/schedules/197/
 200,200,deleted,Downtown Issaquah to North Issaquah,http://metro.kingcounty.gov/schedules/200/map.html,http://metro.kingcounty.gov/schedules/200/
 201,201,deleted,South Mercer Island to Mercer Island P&R,http://metro.kingcounty.gov/schedules/201/map.html,http://metro.kingcounty.gov/schedules/201/
-202,202,reduced,South Mercer Island to Downtown Seattle,http://metro.kingcounty.gov/schedules/202/map.html,http://metro.kingcounty.gov/schedules/202/
+202,202,revised,South Mercer Island to Downtown Seattle,http://metro.kingcounty.gov/schedules/202/map.html,http://metro.kingcounty.gov/schedules/202/
 203,203,deleted,Mercer Island P&R to Shorewood,http://metro.kingcounty.gov/schedules/203/map.html,http://metro.kingcounty.gov/schedules/203/
-204,204,reduced,South Mercer Island to Mercer Island P&R,http://metro.kingcounty.gov/schedules/204/map.html,http://metro.kingcounty.gov/schedules/204/
+204,204,revised,South Mercer Island to Mercer Island P&R,http://metro.kingcounty.gov/schedules/204/map.html,http://metro.kingcounty.gov/schedules/204/
 205EX,205,deleted,South Mercer Island to University District,http://metro.kingcounty.gov/schedules/205/map.html,http://metro.kingcounty.gov/schedules/205/
-209,209,reduced,North Bend to Issaquah TC,http://metro.kingcounty.gov/schedules/209/map.html,http://metro.kingcounty.gov/schedules/209/
+209,209,revised,North Bend to Issaquah TC,http://metro.kingcounty.gov/schedules/209/map.html,http://metro.kingcounty.gov/schedules/209/
 210,210,deleted,Issaquah TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/210/map.html,http://metro.kingcounty.gov/schedules/210/
 211EX,211,deleted,Issaquah Highlands P&R to First Hill,http://metro.kingcounty.gov/schedules/211/map.html,http://metro.kingcounty.gov/schedules/211/
 212,212,unchanged,Eastgate P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/212/map.html,http://metro.kingcounty.gov/schedules/212/
 213,213,deleted,Mercer Island P&R to Covenant Shores,http://metro.kingcounty.gov/schedules/213/map.html,http://metro.kingcounty.gov/schedules/213/
-214,214,reduced,Issaquah to Downtown Seattle,http://metro.kingcounty.gov/schedules/214/map.html,http://metro.kingcounty.gov/schedules/214/
+214,214,revised,Issaquah to Downtown Seattle,http://metro.kingcounty.gov/schedules/214/map.html,http://metro.kingcounty.gov/schedules/214/
 215,215,deleted,North Bend to Issaquah TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/215/map.html,http://metro.kingcounty.gov/schedules/215/
 216,216,deleted,Bear Creek P&R to Sammamish to Downtown Seattle,http://metro.kingcounty.gov/schedules/216/map.html,http://metro.kingcounty.gov/schedules/216/
 217,217,unchanged,Downtown Seattle to North Issaquah,http://metro.kingcounty.gov/schedules/217/map.html,http://metro.kingcounty.gov/schedules/217/
 218,218,unchanged,Issaquah Highlands P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/218/map.html,http://metro.kingcounty.gov/schedules/218/
-221,221,reduced,Education Hill to Crossroads to Eastgate,http://metro.kingcounty.gov/schedules/221/map.html,http://metro.kingcounty.gov/schedules/221/
-224,224,reduced,Fall City to Redmond TC,http://metro.kingcounty.gov/schedules/224/map.html,http://metro.kingcounty.gov/schedules/224/
-226,226,reduced,Eastgate P&R to Crossroads to Overlake to Bellevue TC,http://metro.kingcounty.gov/schedules/226/map.html,http://metro.kingcounty.gov/schedules/226/
-232,232,reduced,Duvall to Redmond TC to Overlake TC to Bellevue TC,http://metro.kingcounty.gov/schedules/232/map.html,http://metro.kingcounty.gov/schedules/232/
-234,234,reduced,Kenmore to Kirkland TC to Bellevue TC,http://metro.kingcounty.gov/schedules/234/map.html,http://metro.kingcounty.gov/schedules/234/
-235,235,reduced,Kingsgate P&R to Kirkland TC to Bellevue TC,http://metro.kingcounty.gov/schedules/235/map.html,http://metro.kingcounty.gov/schedules/235/
-236,236,reduced,Woodinville P&R to Kirkland TC,http://metro.kingcounty.gov/schedules/236/map.html,http://metro.kingcounty.gov/schedules/236/
+221,221,revised,Education Hill to Crossroads to Eastgate,http://metro.kingcounty.gov/schedules/221/map.html,http://metro.kingcounty.gov/schedules/221/
+224,224,revised,Fall City to Redmond TC,http://metro.kingcounty.gov/schedules/224/map.html,http://metro.kingcounty.gov/schedules/224/
+226,226,revised,Eastgate P&R to Crossroads to Overlake to Bellevue TC,http://metro.kingcounty.gov/schedules/226/map.html,http://metro.kingcounty.gov/schedules/226/
+232,232,revised,Duvall to Redmond TC to Overlake TC to Bellevue TC,http://metro.kingcounty.gov/schedules/232/map.html,http://metro.kingcounty.gov/schedules/232/
+234,234,revised,Kenmore to Kirkland TC to Bellevue TC,http://metro.kingcounty.gov/schedules/234/map.html,http://metro.kingcounty.gov/schedules/234/
+235,235,revised,Kingsgate P&R to Kirkland TC to Bellevue TC,http://metro.kingcounty.gov/schedules/235/map.html,http://metro.kingcounty.gov/schedules/235/
+236,236,revised,Woodinville P&R to Kirkland TC,http://metro.kingcounty.gov/schedules/236/map.html,http://metro.kingcounty.gov/schedules/236/
 237,237,deleted,Woodinville P&R to Bellevue TC,http://metro.kingcounty.gov/schedules/237/map.html,http://metro.kingcounty.gov/schedules/237/
-238,238,reduced,UW/CCC Campus to Bothell to Totem Lake TC to Kirkland TC,http://metro.kingcounty.gov/schedules/238/map.html,http://metro.kingcounty.gov/schedules/238/
+238,238,revised,UW/CCC Campus to Bothell to Totem Lake TC to Kirkland TC,http://metro.kingcounty.gov/schedules/238/map.html,http://metro.kingcounty.gov/schedules/238/
 240,240,unchanged,Bellevue TC to Renton TC,http://metro.kingcounty.gov/schedules/240/map.html,http://metro.kingcounty.gov/schedules/240/
-241,241,reduced,Eastgate P&R to Bellevue TC,http://metro.kingcounty.gov/schedules/241/map.html,http://metro.kingcounty.gov/schedules/241/
+241,241,revised,Eastgate P&R to Bellevue TC,http://metro.kingcounty.gov/schedules/241/map.html,http://metro.kingcounty.gov/schedules/241/
 242,242,unchanged,Ridgecrest to Overlake P&R,http://metro.kingcounty.gov/schedules/242/map.html,http://metro.kingcounty.gov/schedules/242/
 243,243,deleted,Jackson Park to Bellevue,http://metro.kingcounty.gov/schedules/243/map.html,http://metro.kingcounty.gov/schedules/243/
 244EX,244,deleted,Kenmore P&R to Overlake TC,http://metro.kingcounty.gov/schedules/244/map.html,http://metro.kingcounty.gov/schedules/244/
-245,245,reduced,Kirkland TC to Crossroads to Factoria,http://metro.kingcounty.gov/schedules/245/map.html,http://metro.kingcounty.gov/schedules/245/
-246,246,reduced,Eastgate P&R to Somerset to Bellevue TC to Clyde Hill,http://metro.kingcounty.gov/schedules/246/map.html,http://metro.kingcounty.gov/schedules/246/
-248,248,reduced,Avondale to Redmond TC to Kirkland TC,http://metro.kingcounty.gov/schedules/248/map.html,http://metro.kingcounty.gov/schedules/248/
-249,249,reduced,Overlake TC to South Bellevue P&R,http://metro.kingcounty.gov/schedules/249/map.html,http://metro.kingcounty.gov/schedules/249/
+245,245,revised,Kirkland TC to Crossroads to Factoria,http://metro.kingcounty.gov/schedules/245/map.html,http://metro.kingcounty.gov/schedules/245/
+246,246,revised,Eastgate P&R to Somerset to Bellevue TC to Clyde Hill,http://metro.kingcounty.gov/schedules/246/map.html,http://metro.kingcounty.gov/schedules/246/
+248,248,revised,Avondale to Redmond TC to Kirkland TC,http://metro.kingcounty.gov/schedules/248/map.html,http://metro.kingcounty.gov/schedules/248/
+249,249,revised,Overlake TC to South Bellevue P&R,http://metro.kingcounty.gov/schedules/249/map.html,http://metro.kingcounty.gov/schedules/249/
 250,250,deleted,Overlake TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/250/map.html,http://metro.kingcounty.gov/schedules/250/
 252,252,unchanged,Kingsgate to Downtown Seattle,http://metro.kingcounty.gov/schedules/252/map.html,http://metro.kingcounty.gov/schedules/252/
-255,255,reduced,Brickyard P&R to Kirkland TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/255/map.html,http://metro.kingcounty.gov/schedules/255/
+255,255,revised,Brickyard P&R to Kirkland TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/255/map.html,http://metro.kingcounty.gov/schedules/255/
 257,257,deleted,Brickyard P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/257/map.html,http://metro.kingcounty.gov/schedules/257/
 260,260,deleted,Finn Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/260/map.html,http://metro.kingcounty.gov/schedules/260/
 265,265,deleted,Overlake TC to Downtown Seattle to First Hill,http://metro.kingcounty.gov/schedules/265/map.html,http://metro.kingcounty.gov/schedules/265/
 268,268,deleted,Redmond to Downtown Seattle,http://metro.kingcounty.gov/schedules/268/map.html,http://metro.kingcounty.gov/schedules/268/
-269,269,reduced,Issaquah TC to Overlake P&R,http://metro.kingcounty.gov/schedules/269/map.html,http://metro.kingcounty.gov/schedules/269/
-271,271,reduced,Issaquah to University District,http://metro.kingcounty.gov/schedules/271/map.html,http://metro.kingcounty.gov/schedules/271/
+269,269,revised,Issaquah TC to Overlake P&R,http://metro.kingcounty.gov/schedules/269/map.html,http://metro.kingcounty.gov/schedules/269/
+271,271,revised,Issaquah to University District,http://metro.kingcounty.gov/schedules/271/map.html,http://metro.kingcounty.gov/schedules/271/
 277,277,deleted,Juanita to University District,http://metro.kingcounty.gov/schedules/277/map.html,http://metro.kingcounty.gov/schedules/277/
 280,280,deleted,Downtown Seattle to Bellevue TC to South Renton P&R to Tukwila,http://metro.kingcounty.gov/schedules/280/map.html,http://metro.kingcounty.gov/schedules/280/
 301,301,unchanged,Aurora Village TC to Richmond Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/301/map.html,http://metro.kingcounty.gov/schedules/301/
@@ -177,21 +177,21 @@
 304,304,deleted,Richmond Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/304/map.html,http://metro.kingcounty.gov/schedules/304/
 306EX,306,unchanged,Kenmore to Downtown Seattle,http://metro.kingcounty.gov/schedules/306/map.html,http://metro.kingcounty.gov/schedules/306/
 308,308,deleted,Horizon View to Downtown Seattle,http://metro.kingcounty.gov/schedules/308/map.html,http://metro.kingcounty.gov/schedules/308/
-309EX,309,reduced,Kenmore P&R to First Hill,http://metro.kingcounty.gov/schedules/309/map.html,http://metro.kingcounty.gov/schedules/309/
-311,311,reduced,Duvall to Downtown Seattle,http://metro.kingcounty.gov/schedules/311/map.html,http://metro.kingcounty.gov/schedules/311/
-312EX,312,reduced,UW/CCC Campus to Downtown Seattle,http://metro.kingcounty.gov/schedules/312/map.html,http://metro.kingcounty.gov/schedules/312/
+309EX,309,revised,Kenmore P&R to First Hill,http://metro.kingcounty.gov/schedules/309/map.html,http://metro.kingcounty.gov/schedules/309/
+311,311,revised,Duvall to Downtown Seattle,http://metro.kingcounty.gov/schedules/311/map.html,http://metro.kingcounty.gov/schedules/311/
+312EX,312,revised,UW/CCC Campus to Downtown Seattle,http://metro.kingcounty.gov/schedules/312/map.html,http://metro.kingcounty.gov/schedules/312/
 316,316,unchanged,Meridian Park to Downtown Seattle,http://metro.kingcounty.gov/schedules/316/map.html,http://metro.kingcounty.gov/schedules/316/
 330,330,unchanged,Shoreline Community College to Lake City,http://metro.kingcounty.gov/schedules/330/map.html,http://metro.kingcounty.gov/schedules/330/
-331,331,reduced,Shoreline Community College to Aurora Village TC to Kenmore P&R,http://metro.kingcounty.gov/schedules/331/map.html,http://metro.kingcounty.gov/schedules/331/
+331,331,revised,Shoreline Community College to Aurora Village TC to Kenmore P&R,http://metro.kingcounty.gov/schedules/331/map.html,http://metro.kingcounty.gov/schedules/331/
 342,342,unchanged,Shoreline P&R to Renton TC,http://metro.kingcounty.gov/schedules/342/map.html,http://metro.kingcounty.gov/schedules/342/
 345,345,unchanged,Shoreline Community College to Northgate TC,http://metro.kingcounty.gov/schedules/345/map.html,http://metro.kingcounty.gov/schedules/345/
 346,346,unchanged,Aurora Village TC to Northgate TC,http://metro.kingcounty.gov/schedules/346/map.html,http://metro.kingcounty.gov/schedules/346/
 347,347,unchanged,Mountlake Terrace TC to Northgate TC,http://metro.kingcounty.gov/schedules/347/map.html,http://metro.kingcounty.gov/schedules/347/
 348,348,unchanged,Richmond Beach to Northgate TC,http://metro.kingcounty.gov/schedules/348/map.html,http://metro.kingcounty.gov/schedules/348/
-355EX,355,reduced,Shoreline Community College to Downtown Seattle,http://metro.kingcounty.gov/schedules/355/map.html,http://metro.kingcounty.gov/schedules/355/
+355EX,355,revised,Shoreline Community College to Downtown Seattle,http://metro.kingcounty.gov/schedules/355/map.html,http://metro.kingcounty.gov/schedules/355/
 358,358,unchanged,Aurora Village TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/358/map.html,http://metro.kingcounty.gov/schedules/358/
-372EX,372,reduced,Woodinville P&R to University District,http://metro.kingcounty.gov/schedules/372/map.html,http://metro.kingcounty.gov/schedules/372/
-373EX,373,reduced,Aurora Village TC to University District,http://metro.kingcounty.gov/schedules/373/map.html,http://metro.kingcounty.gov/schedules/373/
+372EX,372,revised,Woodinville P&R to University District,http://metro.kingcounty.gov/schedules/372/map.html,http://metro.kingcounty.gov/schedules/372/
+373EX,373,revised,Aurora Village TC to University District,http://metro.kingcounty.gov/schedules/373/map.html,http://metro.kingcounty.gov/schedules/373/
 601EX,601,deleted,Downtown Seattle to Group Health / Riverton,http://metro.kingcounty.gov/schedules/601/map.html,http://metro.kingcounty.gov/schedules/601/
 A Line,671,unchanged,(RapidRide) Federal Way TC to Tukwila Intl Blvd Link Station,http://metro.kingcounty.gov/schedules/671/map.html,http://metro.kingcounty.gov/schedules/671/
 B Line,672,unchanged,(RapidRide) Bellevue TC to Redmond TC,http://metro.kingcounty.gov/schedules/672/map.html,http://metro.kingcounty.gov/schedules/672/
@@ -199,11 +199,11 @@ C Line,673,unchanged,(RapidRide) Westwood Village to Fauntleroy Ferry to Alaska 
 D Line,674,unchanged,(RapidRide) Blue Ridge & Crown Hill to Ballard to Seattle Center West to Downtown Seattle,http://metro.kingcounty.gov/schedules/674/map.html,http://metro.kingcounty.gov/schedules/674/
 773,773,unchanged,(DART) Seacrest Park to West Seattle Junction,http://metro.kingcounty.gov/schedules/773/map.html,http://metro.kingcounty.gov/schedules/773/
 775,775,unchanged,(DART) Seacrest Park to Admiral District,http://metro.kingcounty.gov/schedules/775/map.html,http://metro.kingcounty.gov/schedules/775/
-901DART,901,reduced,(DART) Mirror Lake to Federal Way TC,http://metro.kingcounty.gov/schedules/901/map.html,http://metro.kingcounty.gov/schedules/901/
-903DART,903,reduced,(DART) Twin Lakes to Federal Way TC,http://metro.kingcounty.gov/schedules/903/map.html,http://metro.kingcounty.gov/schedules/903/
+901DART,901,revised,(DART) Mirror Lake to Federal Way TC,http://metro.kingcounty.gov/schedules/901/map.html,http://metro.kingcounty.gov/schedules/901/
+903DART,903,revised,(DART) Twin Lakes to Federal Way TC,http://metro.kingcounty.gov/schedules/903/map.html,http://metro.kingcounty.gov/schedules/903/
 907DART,907,deleted,(DART) Enumclaw to Renton TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/907/map.html,http://metro.kingcounty.gov/schedules/907/
-908DART,908,reduced,(DART) Renton Highlands to Renton TC,http://metro.kingcounty.gov/schedules/908/map.html,http://metro.kingcounty.gov/schedules/908/
-909DART,909,reduced,(DART) Kennydale to Renton TC,http://metro.kingcounty.gov/schedules/909/map.html,http://metro.kingcounty.gov/schedules/909/
+908DART,908,revised,(DART) Renton Highlands to Renton TC,http://metro.kingcounty.gov/schedules/908/map.html,http://metro.kingcounty.gov/schedules/908/
+909DART,909,revised,(DART) Kennydale to Renton TC,http://metro.kingcounty.gov/schedules/909/map.html,http://metro.kingcounty.gov/schedules/909/
 910DART,910,deleted,(DART) North Auburn to SuperMall,http://metro.kingcounty.gov/schedules/910/map.html,http://metro.kingcounty.gov/schedules/910/
 913DART,913,deleted,(DART) Kent Rail Station to Riverview,http://metro.kingcounty.gov/schedules/913/map.html,http://metro.kingcounty.gov/schedules/913/
 914DART,914,deleted,(DART) Downtown Kent to Kent East Hill,http://metro.kingcounty.gov/schedules/914/map.html,http://metro.kingcounty.gov/schedules/914/
@@ -213,5 +213,5 @@ D Line,674,unchanged,(RapidRide) Blue Ridge & Crown Hill to Ballard to Seattle C
 919DART,919,deleted,(DART) Southeast Auburn to Auburn Park & Ride,http://metro.kingcounty.gov/schedules/919/map.html,http://metro.kingcounty.gov/schedules/919/
 927DART,927,deleted,(DART) Downtown Issaquah to Lake Sammamish Plateau,http://metro.kingcounty.gov/schedules/927/map.html,http://metro.kingcounty.gov/schedules/927/
 930DART,930,deleted,(DART) Kingsgate P&R to Redmond Town Center,http://metro.kingcounty.gov/schedules/930/map.html,http://metro.kingcounty.gov/schedules/930/
-931DART,931,reduced,(DART) UW /CCC Campus to Redmond TC,http://metro.kingcounty.gov/schedules/931/map.html,http://metro.kingcounty.gov/schedules/931/
+931DART,931,revised,(DART) UW /CCC Campus to Redmond TC,http://metro.kingcounty.gov/schedules/931/map.html,http://metro.kingcounty.gov/schedules/931/
 935DART,935,deleted,(DART) Totem Lake to Kenmore,http://metro.kingcounty.gov/schedules/935/map.html,http://metro.kingcounty.gov/schedules/935/
